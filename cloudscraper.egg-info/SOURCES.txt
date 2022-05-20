@@ -1,0 +1,6 @@
+README.md
+cloudscraper.egg-info/PKG-INFO
+cloudscraper.egg-info/SOURCES.txt
+cloudscraper.egg-info/dependency_links.txt
+cloudscraper.egg-info/requires.txt
+cloudscraper.egg-info/top_level.txt
